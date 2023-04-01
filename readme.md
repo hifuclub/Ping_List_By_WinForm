@@ -12,7 +12,7 @@ ping目录里的所有ip地址来检测服务器连接状态/ping all ip address
 
 说明
 --------------------------------------------------
-双击编辑表格
-支持直接批量导入ip
-直接将ip放到ipAddress.sav队尾
+双击编辑表格,
+支持直接批量导入ip,
+直接将ip放到ipAddress.sav队尾,
 尽量不要手动修改remake.sav以及name.sav
