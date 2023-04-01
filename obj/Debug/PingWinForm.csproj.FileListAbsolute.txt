@@ -1,0 +1,10 @@
+C:\Users\sym\source\repos\PingWinForm\bin\Debug\PingWinForm.exe
+C:\Users\sym\source\repos\PingWinForm\bin\Debug\PingWinForm.pdb
+C:\Users\sym\source\repos\PingWinForm\obj\Debug\PingWinForm.csprojAssemblyReference.cache
+C:\Users\sym\source\repos\PingWinForm\obj\Debug\PingWinForm.Form1.resources
+C:\Users\sym\source\repos\PingWinForm\obj\Debug\PingWinForm.Properties.Resources.resources
+C:\Users\sym\source\repos\PingWinForm\obj\Debug\PingWinForm.csproj.GenerateResource.cache
+C:\Users\sym\source\repos\PingWinForm\obj\Debug\PingWinForm.csproj.CoreCompileInputs.cache
+C:\Users\sym\source\repos\PingWinForm\obj\Debug\PingWinForm.exe
+C:\Users\sym\source\repos\PingWinForm\obj\Debug\PingWinForm.pdb
+C:\Users\sym\source\repos\PingWinForm\obj\Debug\PingWinForm.Form2.resources
